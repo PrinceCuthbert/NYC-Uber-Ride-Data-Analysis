@@ -127,7 +127,15 @@ The dataset reveals consistent temporal patterns and geographic clustering in NY
 - Power BI Desktop (free download from Microsoft)  
 - Kaggle account or environment to run Python for cleaning  
 
-### GitHub Repository
+### Links part
+
+- GitHub Repository and cleaned data in google drive
 
 ```bash
 https://github.com/PrinceCuthbert/NYC-Uber-Ride-Data-Analysis
+
+```
+
+```bash
+https://docs.google.com/spreadsheets/d/1PJDPRu6pbmM3CRJKHau_T00qd9Ta4lkBs6LcsX9ivYo/edit?gid=406967966#gid=406967966
+
