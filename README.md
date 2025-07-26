@@ -41,6 +41,11 @@ This project analyzes NYC Uber trip records to understand ride demand fluctuatio
 
 ---
 
+## Methodology: Data Collection and Analysis Approach
+
+The dataset was sourced from Kaggle, containing detailed NYC Uber trip records. Initial data cleaning and preprocessing—such as handling missing values, converting timestamps, and feature engineering (e.g., extracting hour, day, month)—were performed using Python (Pandas). The enhanced dataset was imported into Power BI for exploratory data analysis and visualization. Key insights were derived through time-series charts, geographic heatmaps, histograms, and clustering. Custom DAX measures and slicers were implemented to enable dynamic, interactive dashboard filtering.
+
+
 ## 📊 Dataset Structure
 
 | Column            | Type           | Description                                  |
